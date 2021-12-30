@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+.App {
+  text-align: center;
+  padding : 1%;
+  font-family: 'Mate SC', serif;
+}
+h1.title {
+  font-size: 300%;
+  color: rgb(229, 238, 245);
+  text-shadow: 2px 5px black;
+}
